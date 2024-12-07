@@ -32,4 +32,8 @@ This project is a starting point for an E-Commerce application.
     Imformative Snackbar : toastification: ^2.3.0
     Responsive : Flutter Screen Util
 
+## Trailer
+    A Short Video to show the main features of the app 
+        https://drive.google.com/file/d/1oJl_OX1ItlLLTgh6sS7raughtNGDLOlL/view?usp=sharing
+
 
